@@ -6,9 +6,9 @@ color:
   saturation: 0.32908703992143273
   rhythmicContrast: 0.6032280484214425
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Tetrapolis Uncharted
