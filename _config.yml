@@ -1,14 +1,18 @@
-layout_spectrum: 0.07061930070631206
-typography_spectrum: 0.4338990480173379
+typography_spectrum: 0.11057158063599232
 color:
-  brandStrength: 0.21705953544005752
-  lightness: 0.6440096977166831
-  saturation: 0.32908703992143273
-  rhythmicContrast: 0.6032280484214425
+  brandStrength: 0.7725381210472176
+  lightness: 0.1028611486547138
+  saturation: 0.15509316177743643
+  rhythmicContrast: 0.716535707403546
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
+github: true
+layout_spectrum: 0.9298520826576001
 name: Tetrapolis Uncharted
+title: Tetrapolis Uncharted
+content: []
+description: Your Gate to Adventure
